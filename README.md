@@ -1,2 +1,2 @@
-# Birtthday_invitation_letters_automation
+# Invitation letters ✉️!
 Automating the invitation letters for a party  🎂 in Python! 
